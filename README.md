@@ -12,7 +12,6 @@
 * 💬 **Ask me about:** Java, Python, DBMS, Web Development, and Student Projects
 * 🏆 **Achievement:** Selected participant at MumbaiHacks, one of India's large-scale 24-hour hackathons
 * 🎯 **Interests:** Software Development, Problem Solving, Technology, AI Tools, and Video Editing
-* 📫 **Reach me at:** [tushardevendra2006@gmail.com](mailto:tushardevendra2006@gmail.com)
 * ⚡ **Fun Fact:** I enjoy turning ideas into projects and continuously exploring new technologies.
   
 - ## 🏆 GitHub Trophies
